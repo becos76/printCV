@@ -8,39 +8,74 @@ BasicInfo:
     - Icon: fas fa-envelope
       Info: mkaliotis@gmail.com
     - Icon: fas fa-globe
-      Info: becos76.github.io
+      Info: mycv.bytewise.me
     - Icon: fas fa-map-marker-alt
       Info: Greece
 
-Profile: Experienced and professional Network Engineer with a solid technical background of more than twenty years and a proven record in implementing and supporting both Enterprise and Service Provider network projects and technology. The additional knowledge acquired on computer systems, databases, scripting languages and software applications, adds to the strong analytical skills gained so far and expand on the solid commitment to customer satisfaction via successful project delivery.
+Profile: 'Experienced and professional Network Engineer with a solid technical background of 
+more than twenty years and a proven record in implementing and supporting both Enterprise and 
+Service Provider network projects and technology. The additional knowledge acquired on computer 
+systems, databases, scripting languages and software applications, adds to the strong analytical 
+skills gained so far and expand on the solid commitment to customer satisfaction via successful 
+project delivery.'
 
 Experience:
-  - Employer: Cisco Systems
+  - Employer: Kentik
+    Place: Remote, GR
+    Positions:
+      - Title: Customer Success Engineer
+        Date: Sep 2023 - Present
+        Details:
+          - Onboarding customers into Kentik's SaaS network intelligence platform
+          - Ensuring adoption of customer's observability use cases through the various products
+          - Acting as the trusted technical advisor throughout customer's journey
+          - Ownership of Customer Accounts' Lifecycle on technical issues and feature requests
+        Badges: ['Customer Success', 'Network & Cloud Observability', 'SaaS', 'Training']
+      - Title: Customer Support Engineer
+        Date: Aug 2022 - Aug 2023
+        Details:
+          - Handling of customer support tickets within support SLAs
+          - Reproduction and verification of bugs and issues
+          - Ownership of customer cases and escalations for proper resolution
+        Badges: ['Customer Support', 'Network & Cloud Observability', 'SaaS', 'Troubleshooting']
+
+  - Employer: Cisco Systems 
     Place: Athens, GR
     Positions:
       - Title: Consulting Engineer
-        Date: Mar 2022 - Present
+        Date: Mar 2022 - Jul 2022
         Details:
-          - Joined the Customer Experience Architectures team for South Europe
-          - Project delivery and consulitng on Cisco ACI product
-          - Exposure to DC automation
+          - Full project lifecycle delivery of Cisco ACI product
+          - Exposure to ACI automation
         Badges: ['Professional Services', 'Cisco ACI']
+  
+  
   - Employer: Cisco Systems
     Place: Krakow, PL
     Positions:
+      - Title: Consulting Engineer
+        Date: Dec 2021 - Feb 2022
+        Details:
+          - Full project lifecycle delivery of Cisco ACI product
+          - Exposure to ACI automation
+        Badges: ['Professional Services', 'Cisco ACI']
+
       - Title: Software Consulting Engineer
-        Date: Aug 2020 - Feb 2022
+        Date: Aug 2020 - Nov 2021
         Details:
           - Was converted to a full time employee in the Software Automation for SP Team
           - Project delivery and consulting on Cisco Prime Suite and EPNM products
           - Participated in the delivery of Crosswork Network Automation products
         Badges: ['Professional Services', 'Cisco NSO', 'Cisco EPNM', 'Cisco Prime','Cisco Crosswork']
+
       - Title: Network Consulting Engineer (Contract)
         Date:  Feb 2019 - Jul 2020
         Details:
           - Joined the Professional Services Management and Automation Systems Team of the Software and Automation for Service Providers division
           - Project delivery and consulting on Cisco Prime Suite and EPNM products
         Badges: ['Professional Services', 'Cisco EPNM', 'Cisco Prime']
+  
+
   - Employer: Unisystems
     Place: Athens, GR
     Positions:
@@ -48,55 +83,43 @@ Experience:
         Date: Apr 2018 - Jan 2019
         Details:
           - Joined the Networking and Security Professional Services team
-          - Main duties include design, documentation, implementation, training and support for all projects involved.
         Badges: ['Professional Services', 'Managed Services', 'Cisco Nexus', 'Cisco ISE', 'Cisco 6800', Citrix SDWAN]
+  
   - Employer: Fraport Greece
     Place: Athens, GR
     Positions:
       - Title: Systems Infrastructure Manager
         Date: Nov 2016 - Mar 2018
         Details:
-          - Managing the operation’s teams, both 1st and 2nd level, of 14 Greek airports and the company’s Headquarters building
-          - Responsible for the network infrastructure, the compute resources and the ACS/CCTV systems of the whole company footprint
-          - Responsible for the procurement, design, deployment and operation of all systems and services of the IT&T infrastructure section
+          - Managing the IT infrastructure teams of 14 Greek airports and the company’s Headquarters
         Badges: ['People''s Manager', 'Technical Lead', 'RFQ/RFP', 'Budgeting', 'Network Design']
+  
   - Employer: Intracom Telecom
     Place: Peania, GR
     Positions:
       - Title: Senior Network Integration Engineer
         Date: Feb 2015 - Oct 2016
-        Details:
-          - Technical Team Leader in several projects for a major Greek enterprise involving full network infrastructure re-design and deployment to support Wireless, IP Telephony and Data Centre service
-        Badges: ['Professional Services', 'Technical Lead', 'Cisco Prime', 'Cisco ISE', 'Cisco Wireless', 'HPE Routing/Switching']
+
   - Employer: Liberty Global
     Place: Amsterdam, NL
     Positions:
       - Title: Senior Network Engineer
         Date: Apr 2014 - Jan 2015
-        Details:
-          - Joined the Network Engineering team handling various integration projects into the core MPLS and the affiliate's access networks
-        Badges: ['Network Deployment', 'Network Planning', 'Change Management', 'L3VPN', 'BGP Peering', 'Juniper Routers']
       - Title: Senior Network Support Engineer
         Date: Apr 2012 - Mar 2014
-        Details:
-          - Joined the Advanced Support team providing Level 2 operations and incident management on a Juniper/Cisco international network
-        Badges: ['Advanced Support', 'Change Management','L3VPN', 'MPLS', 'BGP Peering']
+
   - Employer: Intracom Telecom
     Place: Peania, GR
     Positions:
       - Title: Senior Network Integration Engineer
         Date: Oct 2007 - Mar 2012
-        Details:
-          - Main duties as a member of the Professional Services team include design, documentation, implementation, training and support for all projects involved
-        Badges: ['Professional Services', 'Juniper MX960', 'Cisco ISC', 'Cisco ASR9000', 'Cisco SCE','HP NNM', 'Metro Ethernet', 'IP-TV']
+
   - Employer: Hellenic Petroleum
     Place: Aspropyrgos, GR
     Positions:
       - Title: Database, Network and Systems Administrator
         Date: Apr 2002 - Sep 2007
-        Details:
-          - Initially employed by Petrola Hellas which merged on 01/10/2003 with Hellenic Petroleum. Joined the IT Department of Elefsis refinery and moved to the HQ refinery in Aspropyrgos
-        Badges: ['System Administration', 'Database Administration', 'Network Administration', 'MS Windows Server', 'HP-UX Clusters', 'Oracle DBA', 'MSSQL Server', 'MS Active Directory']
+
 
 
 Education:
@@ -133,9 +156,9 @@ Education:
 
 
 Skills:
-  - Family: Network Management
+  - Family: Network Management & Automation
     Items:
-      - Cisco Prime Infrastructure, Cisco Prime Network, Cisco Prime Provisioning, Cisco Prime Performance Manager, Cisco EPNM, HPE OpenView NNM, Cacti, Nagios
+      - Cisco Prime and EPNM NMS products, Cisco NSO, Python, Ansible, REST APIs
   - Family: Service Provider
     Items:
       - Cisco 7600, Cisco ASR9000, Juniper MX, L2/L3VPN, MP-BGP, VPLS
@@ -150,28 +173,30 @@ Skills:
 
 Interests:
   - Automation
-  - Telemetry
-  - Ansible
-  - Terraform
+  - NetDevOps
+  - Observability
+
+  - IaC
   - Kubernetes
   - AWS Cloud
+
+#  - NetDevOps
+  # - Programming
   
 
 Diplomas:
-  - Cisco Certified DevNet Associate
-  - Aruba CCP
-  - HPE ASE – FlexNetwork Integrator
-  - HPE ATP – FlexNetwork Solutions
-  - HPE Certified Instructor
-  - ITIL® Foundation Certificate
+  - Cisco Certified DevNet Professional
+  - Cilium Certified Associate
+  - Kubernetes and Cloud Native Associate
+  - AWS Cloud Practicioner
   - Cisco CCNP-SP
   - Cisco CCDP
   - Cisco CCNP
 
-Languages:
-  - Name: Greek
-    Level: Native
-  - Name: English
-    Level: C2
-  - Name: French
-    Level: C1
+# Languages:
+#   - Name: Greek
+#     Level: Native
+#   - Name: English
+#     Level: C2
+#   - Name: French
+#     Level: C1
